@@ -3,7 +3,11 @@ welcome to my kitchen
 pizza
 pasta
 
-chicken
+chicken 
+idli sambar
+potato fry
 
 thank you
+done my changes
 final copy
+
